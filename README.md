@@ -1,5 +1,6 @@
 # 资源
 
-## list
+## List
 
-1. 几何画板
+1. [几何画板v5.06](https://github.com/UlinoyaPed/Res/releases/tag/JiheHuaban)
+1. [Typora](https://github.com/UlinoyaPed/Res/releases/tag/Typora)
